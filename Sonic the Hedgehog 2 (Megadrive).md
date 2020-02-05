@@ -15,6 +15,8 @@ This damage hitbox has a width radius of 4, and a height radius is 4.
 
 ![Image](/Image/Sonic the Hedgehog 2/Mecha Sonic.png)
 
+![Alt text](Image/Sonic the Hedgehog 2/Mecha Sonic.pn?raw=true "Optional Title")
+
 ## **Death Egg Robot**
 
 TODO: Add data, as this is a rather complex boss with lots of hitboxes.

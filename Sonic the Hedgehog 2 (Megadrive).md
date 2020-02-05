@@ -13,12 +13,10 @@ Its origin is located at ((X ± (width radius of first hitbox)), (Y - (height ra
 
 This damage hitbox has a width radius of 4, and a height radius is 4.
 
-![Image](/Image/Sonic the Hedgehog 2/Mecha Sonic.png)
-
-![Alt text](/Image/Sonic the Hedgehog 2/Mecha Sonic.png?raw=true "Optional Title")
-
-![ScreenShot](https://raw.githubusercontent.com/i-saumitra/Voice-controlled-MP3-Player/master/screenshot.jpg)
-
 ## **Death Egg Robot**
+
+The Death Egg Robot has 2 hitboxes, one for the robot's torso, and one for the robot's head.
+
+The Death Egg Robot also has multiple damage hitboxes. (2 for each leg, 2 for both arms, 1 for the torso, and 1 for the flame under the Death Egg Robot's engine?).
 
 TODO: Add data, as this is a rather complex boss with lots of hitboxes.

@@ -9,7 +9,7 @@ The first one is always active, and shares its origin X/Y position with Mecha So
 
 The second damage hitbox is only active when Mecha Sonic is stationary.  
 
-Its origin is located at ((X ± (width radius of first hitbox)), (Y ± (height radius of first hitbox))), with the addition or subtraction of the width/height radii depending on Mecha Sonic's orientation.  
+Its origin is located at ((X ± (width radius of first hitbox)), (Y - (height radius of first hitbox))), with whether the X radius is added or subtracted depending on which direction Mecha Sonic is facing. 
 
 This damage hitbox has a width radius of 4, and a height radius is 4.
 

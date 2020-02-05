@@ -13,6 +13,8 @@ Its origin is located at ((X ± (width radius of first hitbox)), (Y - (height ra
 
 This damage hitbox has a width radius of 4, and a height radius is 4.
 
+![Image](Image/Soni the Hedgehog 2/Mecha Sonic.png)
+
 ## **Death Egg Robot**
 
 TODO: Add data, as this is a rather complex boss with lots of hitboxes.

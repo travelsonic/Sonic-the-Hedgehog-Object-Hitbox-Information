@@ -1,5 +1,7 @@
 # **Badnik Hitbox Information:**
 ## **Mystic Cave Zone:**
+### **Crawlton**
+
 ### **Flasher**
 Flasher has a hitbox with a width radius of 16, and a height radius of 16, resulting in a 33 x 33 rectangle.
 
